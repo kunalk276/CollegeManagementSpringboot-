@@ -1,0 +1,14 @@
+create database collegemgmt;
+use collegemgmt;
+show tables;
+desc Teacher;
+desc student;
+desc department;
+desc courses;
+desc batches;
+select * from teacher_details1;
+select * from student;
+select * from dept1;
+select * from batch_Details;
+select * from courses;
+select * from batches;
